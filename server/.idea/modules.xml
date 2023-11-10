@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../zeroconf-poc/zeroconf-server/.idea/multicast-relay.iml" filepath="$PROJECT_DIR$/../zeroconf-poc/zeroconf-server/.idea/multicast-relay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zeroconf-poc/.idea/zeroconf-poc.iml" filepath="$PROJECT_DIR$/../zeroconf-poc/.idea/zeroconf-poc.iml" />
+    </modules>
+  </component>
+</project>
